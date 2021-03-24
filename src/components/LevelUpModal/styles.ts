@@ -24,7 +24,6 @@ export const Container = styled.div`
     position: relative;
 `;
 
-
 export const Header = styled.header`
     font-size: 8.75rem;
     font-weight: 600;
